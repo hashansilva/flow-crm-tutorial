@@ -1,0 +1,15 @@
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+
+a[highlight] {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.logout-button{
+    min-width:unset !important;
+}
+
+/*
+.menu-bar::part(container){
+    flex-direction: column;
+}*/
