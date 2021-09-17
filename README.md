@@ -23,6 +23,10 @@ ready to be deployed. The file can be found in the `target` folder after the bui
 Once the JAR file is built, you can run it using
 `java -jar target/flowcrmtutorial-1.0-SNAPSHOT.jar`
 
+## Setting up the Oracle DB
+
+Add the credentials of your Oracle DB instance into the application.properties
+
 ## Project structure
 
 - `MainView.java` in `src/main/java` contains the navigation setup (i.e., the
